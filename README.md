@@ -23,11 +23,18 @@ Results
 The trained CNN achieved the following performance metrics on the test set:
 
 Accuracy: 78.37333%
+
 Recall: 0.846153
+
 Precision: 0.621468
+
 F1 Score: 0.716612
+
 Confusion Matrix:
+
 <img width="362" alt="image" src="https://github.com/abh1shank/Respiratory-Disease-Classification-using-CNN/assets/97939389/e9f19831-0eb1-42e5-b116-df955ce0ee06">
+
 Conclusion
+
 The CNN classifier demonstrates promising performance in distinguishing between pneumonic and non-pneumonic lungs. With further refinement and validation, it has the potential to be integrated into medical systems for assisting radiologists in diagnosing pneumonia more accurately and efficiently.
 
