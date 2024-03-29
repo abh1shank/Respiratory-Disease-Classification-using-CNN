@@ -2,11 +2,11 @@ Live App- https://respiratory-disease-classification-using-cnn-jsorfpwjj8enuwech
 
 <span style="font-size: 24px; color: blue;">Pneumonia Detection using Convolutional Neural Networks (CNN)</span>
 
-<span style="font-size: 20px; color: blue;">Dataset</span>
+<span style="font-size: 20px; color: blue;">Overview</span>
 
 This project aims to classify chest X-ray images into two classes: pneumonic lungs and non-pneumonic lungs, using Convolutional Neural Networks (CNNs). Pneumonia is a serious lung infection that can be diagnosed through chest X-ray images. By automating the classification process with CNNs, we can assist medical professionals in diagnosing pneumonia more efficiently.
 
-<span style="font-size: 20px; color: blue;">CNN Architecture</span>
+<span style="font-size: 20px; color: blue;">CNN Dataset</span>
 
 
 The dataset used in this project consists of chest X-ray images collected from kaggle. It contains images labeled as either "pneumonia" or "normal" (non-pneumonia). The dataset is split into training, validation, and test sets for model training, validation, and evaluation, respectively.
